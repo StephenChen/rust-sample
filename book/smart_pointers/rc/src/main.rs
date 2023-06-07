@@ -1,4 +1,3 @@
-use std::rc;
 use std::rc::Rc;
 
 use crate::List::{Cons, Nil};
