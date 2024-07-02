@@ -7,7 +7,15 @@ name = "closure"
 version = "0.1.0"
 
 [[package]]
+name = "deref"
+version = "0.1.0"
+
+[[package]]
 name = "minigrep"
+version = "0.1.0"
+
+[[package]]
+name = "refcell"
 version = "0.1.0"
 
 [[package]]

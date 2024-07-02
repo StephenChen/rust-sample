@@ -3,5 +3,8 @@ resolver = "2"
 
 members = [
     "minigrep",
-    "closure", "temp",
+    "closure",
+    "temp",
+    "trait/deref",
+    "smart_pointer/refcell",
 ]
