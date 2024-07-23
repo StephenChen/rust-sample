@@ -11,11 +11,19 @@ name = "deref"
 version = "0.1.0"
 
 [[package]]
+name = "gui"
+version = "0.1.0"
+
+[[package]]
 name = "minigrep"
 version = "0.1.0"
 
 [[package]]
 name = "refcell"
+version = "0.1.0"
+
+[[package]]
+name = "state_pattern"
 version = "0.1.0"
 
 [[package]]
