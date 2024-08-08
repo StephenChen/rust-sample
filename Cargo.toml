@@ -6,5 +6,9 @@ members = [
     "closure",
     "temp",
     "trait/deref",
-    "smart_pointer/refcell", "gui", "state_pattern",
+    "smart_pointer/refcell",
+    "gui",
+    "state_pattern",
+    "macro/hello_macro",
+    "web",
 ]
